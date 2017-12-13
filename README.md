@@ -1,13 +1,14 @@
 # ZarinPal iOS SDK Payment 
 Payment request and Automatic verification in Clinet 
 
-# Swift
+# How to add Framework to my Project?
 Simply download & add [ZarinPalSDKPayment.framework](https://github.com/ImanX/zarinpal-ios-payment/blob/master/ZarinPalSDKPayment.framework.zip?raw=true) to Link Frameworks and Libraries in your project
 
 # Tutorial 
 [Purchase of Implementation Tutorial Video](https://zarinp.al/152390)
 
-Start Payment
+# Example
+
 ```Swift
        
 import ZarinPalSDKPayment <= import this.
