@@ -21,7 +21,7 @@ class ViewController: UIViewController , ZarinPalPaymentDelegate {
     
     @IBAction func click(_ sender: Any) {
         
-        let zarinpal =   ZarinPal.Builder(vc: self, merchantID: "***********", amount: 100, description: "asd");
+        let zarinpal =   ZarinPal.Builder(vc: self, merchantID: "***********", amount: 100, description: "test");
         zarinpal.indicatorColor = UIColor.black;
         zarinpal.title = "درگاه پرداخت";
         zarinpal.pageBackgroundColor = UIColor.lightGray;
