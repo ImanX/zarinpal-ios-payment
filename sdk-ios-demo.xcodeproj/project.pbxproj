@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7E7121E21FDEF5BE00F06C99 /* ZarinPalSDKPayment.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E79D06C1FDBC55D00FA8B84 /* ZarinPalSDKPayment.framework */; };
-		7E7121E31FDEF5BE00F06C99 /* ZarinPalSDKPayment.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 7E79D06C1FDBC55D00FA8B84 /* ZarinPalSDKPayment.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		7E4BBB7A202394540007DE8B /* ZarinPalSDKPayment.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E79D06C1FDBC55D00FA8B84 /* ZarinPalSDKPayment.framework */; };
+		7E4BBB7B202394540007DE8B /* ZarinPalSDKPayment.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 7E79D06C1FDBC55D00FA8B84 /* ZarinPalSDKPayment.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		7E79D03F1FDBC48800FA8B84 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E79D03E1FDBC48800FA8B84 /* AppDelegate.swift */; };
 		7E79D0411FDBC48800FA8B84 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E79D0401FDBC48800FA8B84 /* ViewController.swift */; };
 		7E79D0441FDBC48900FA8B84 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E79D0421FDBC48800FA8B84 /* Main.storyboard */; };
@@ -34,13 +34,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		7E7121E41FDEF5BE00F06C99 /* Embed Frameworks */ = {
+		7E4BBB7C202394540007DE8B /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				7E7121E31FDEF5BE00F06C99 /* ZarinPalSDKPayment.framework in Embed Frameworks */,
+				7E4BBB7B202394540007DE8B /* ZarinPalSDKPayment.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -65,7 +65,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E7121E21FDEF5BE00F06C99 /* ZarinPalSDKPayment.framework in Frameworks */,
+				7E4BBB7A202394540007DE8B /* ZarinPalSDKPayment.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,7 +136,7 @@
 				7E79D0371FDBC48800FA8B84 /* Sources */,
 				7E79D0381FDBC48800FA8B84 /* Frameworks */,
 				7E79D0391FDBC48800FA8B84 /* Resources */,
-				7E7121E41FDEF5BE00F06C99 /* Embed Frameworks */,
+				7E4BBB7C202394540007DE8B /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
