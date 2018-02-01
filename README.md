@@ -7,7 +7,7 @@ Simply download & add [ZarinPalSDKPayment.framework](https://github.com/ImanX/za
 - NOTE: Framework Updated to Swift 4.0 Version Compile.
 
 # Tutorial 
-[Purchase of Implementation Tutorial Video](https://zarinp.al/160400)
+[Purchase of Implementation Tutorial Video | خرید آموزش تصویری](https://zarinp.al/160400)
 
 # Example
 
