@@ -2,12 +2,38 @@
 Payment request and Automatic verification in Clinet 
 
 # How to add Framework to my Project?
-Simply download & add [ZarinPalSDKPayment.framework](https://github.com/ImanX/zarinpal-ios-payment/blob/master/ZarinPalSDKPayment.framework.zip?raw=true) to Link Frameworks and Libraries in your project
+Simply Install by Cocoapods and use it!
 
-- NOTE: Framework Updated to Swift 4.0 Version Compile.
+- NOTE: Framework Updated to Swift 4.1 Version Compile.
+- NOTE: Fix Amount DataType
 
-# Tutorial 
-[Purchase of Implementation Tutorial Video | خرید آموزش تصویری](https://zarinp.al/160400)
+#  How to Install Pod?
+[CocoaPods](http://cocoapods.org) is a dependency manager for Cocoa projects. You can install it with the following command:
+
+```bash
+$ gem install cocoapods
+```
+
+> CocoaPods 1.5+ is required
+
+To integrate Alamofire into your Xcode project using CocoaPods, specify it in your `Podfile`:
+
+```ruby
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.0'
+use_frameworks!
+
+target '<Your Target Name>' do
+       pod 'ZarinPalSDKPayment', '~> 0.2.2'
+end
+```
+
+Then, run the following command:
+
+```bash
+$ pod install
+```
+
 
 # Example
 
