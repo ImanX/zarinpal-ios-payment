@@ -16,7 +16,7 @@ $ gem install cocoapods
 
 > CocoaPods 1.5+ is required
 
-To integrate Alamofire into your Xcode project using CocoaPods, specify it in your `Podfile`:
+To integrate ZarinPal SDK into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
 source 'https://github.com/CocoaPods/Specs.git'
