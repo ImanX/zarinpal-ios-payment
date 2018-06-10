@@ -6,7 +6,7 @@ Simply Install by Cocoapods and use it!
 
 - NOTE: Framework Updated to Swift 4.1 Version Compile.
 - NOTE: Fix Amount DataType
-- NOTE: Supported Ios 10.0 higher
+- NOTE: Supported iOS 10 to higher
 
 #  How to Install Pod?
 [CocoaPods](http://cocoapods.org) is a dependency manager for Cocoa projects. You can install it with the following command:
