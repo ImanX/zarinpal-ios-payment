@@ -6,6 +6,7 @@ Simply Install by Cocoapods and use it!
 
 - NOTE: Framework Updated to Swift 4.1 Version Compile.
 - NOTE: Fix Amount DataType
+- NOTE: Supported iOS 10 to higher
 
 #  How to Install Pod?
 [CocoaPods](http://cocoapods.org) is a dependency manager for Cocoa projects. You can install it with the following command:
@@ -24,7 +25,7 @@ platform :ios, '10.0'
 use_frameworks!
 
 target '<Your Target Name>' do
-       pod 'ZarinPalSDKPayment', '~> 0.2.2'
+       pod 'ZarinPalSDKPayment', '~> 0.2.4'
 end
 ```
 
