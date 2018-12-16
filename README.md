@@ -25,7 +25,7 @@ platform :ios, '10.0'
 use_frameworks!
 
 target '<Your Target Name>' do
-       pod 'ZarinPalSDKPayment', '~> 0.2.3'
+       pod 'ZarinPalSDKPayment', '~> 0.2.4'
 end
 ```
 
