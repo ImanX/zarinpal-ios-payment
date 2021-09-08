@@ -1,6 +1,11 @@
+# The Repo and Project has been DEPRECATED and Archived please check [iOS-SDK](https://github.com/ZarinPal/iOS-SDK)
+
+
 # ZarinPal iOS SDK Payment 
 Payment request and Automatic verification in Clinet 
 
+
+       
 # How to add Framework to my Project?
 Simply Install by Cocoapods and use it!
 
